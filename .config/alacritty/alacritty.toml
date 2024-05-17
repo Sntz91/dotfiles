@@ -1,0 +1,25 @@
+[window]
+dimensions = {columns = 140, lines = 40}
+opacity = 0.9
+blur = true
+padding = {x = 5, y = 5}
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+normal = {family = "SpaceMonoNerdFontMono", style = "Medium"} 
+bold = {family = "SpaceMonoNerdFontMono", style = "Bold"} 
+italic = {family = "SpaceMonoNerdFontMono", style = "MediumItalic"} 
+bold_italic = {family = "SpaceMonoNerdFontMono", style = "BoldItalic"} 
+size = 14
+
+[colors]
+draw_bold_text_with_bright_colors = true
+primary = {background = "#11121D", foreground = "#a9b1d6"}
+
+[cursor]
+style = {shape = "Block", blinking="Off"}
+
+
