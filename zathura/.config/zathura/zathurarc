@@ -12,3 +12,5 @@ set page-padding 1
 
 include catppuccin-macchiato
 set recolor false
+
+set selection-clipboard clipboard
