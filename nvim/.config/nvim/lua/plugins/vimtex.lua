@@ -3,7 +3,7 @@ return {
 	config = function()
 		vim.g.vimtex_view_method = 'zathura'
 		vim.g.vimtex_compiler_latexmk = {
-			out_dir = 'output'
+			out_dir = 'output',
 		}
 	end
 }
