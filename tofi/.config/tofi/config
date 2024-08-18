@@ -1,0 +1,11 @@
+# Catppuccin Mocha
+text-color = #cdd6f4
+prompt-color = #f38ba8
+selection-color = #c6a0f6
+background-color = #1e1e2e
+
+corner-radius = 20
+border-color = #c6a0f6
+border-width = 6
+outline-color = #fffff
+outline-width = 4

@@ -36,6 +36,7 @@ zinit cdreplay -q
 # Keybindings
 bindkey '^p' history-search-backward
 bindkey '^n' history-search-forward
+set -o emacs
 
 # History
 HISTSIZE=5000
